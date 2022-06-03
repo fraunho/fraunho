@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fraunho
 - 👀 I’m interested in scripting to make my scientific life easier.
-- 🌱 I’m still using Perl for that - although most of my scripts are old and superseded. I write and use ImageJ macros and I am willing to adapt Python to reach my goals. However, I am not a native in the latter language.
+- 🌱 I’m still using Old-School Perl5 for that - thus, most of my scripts are old and superseded, but do what they are supposed to do. I write and use ImageJ macros and I am willing to adapt Python programs to reach my goals. However, I am not a native in the latter language.
 - 📫 How to reach me: Working on it.
 
 <!---
